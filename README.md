@@ -5,7 +5,7 @@ I am a professional Software Engineer with over **6 years of experience** in bui
 
 ---
 
-### 🚀 Featured Projects (from my Portfolio)
+### 🚀 Featured Projects
 - **BeOn:** Real-time communication hub. Reduced latency to <500ms using WebSockets.
 - **Munjz Connect:** High-scale Property Management SaaS platform built from scratch.
 - **Aqarpedia:** Comprehensive real estate encyclopedia for the MENA region.
