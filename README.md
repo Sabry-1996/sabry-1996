@@ -1,20 +1,32 @@
-# Hi there, I'm Sabry Hamed 👋
+# Hi, I'm Sabry Hamed 👋
+### Senior Frontend Engineer
 
-Senior Frontend Developer with **6+ years of experience** specializing in building high-scale enterprise SaaS platforms and real-time communication systems.
+I am a professional Software Engineer with over **6 years of experience** in building high-scale, production-ready web applications. I specialize in mastering the modern JavaScript ecosystem, seamlessly navigating across **Vue.js, React, and Angular**.
 
-### 🛠️ Tech Stack
-- **Core:** Vue 3 (Composition API), Nuxt.js, TypeScript, JavaScript (ES6+).
-- **State Management:** Pinia, Vuex.
-- **Real-time:** WebSockets, Pusher, Laravel Echo.
-- **Frontend Architect:** 4-Layer Architecture (Component → Composable → Store → Service).
-- **Styling:** Tailwind CSS, PrimeVue, SASS.
+---
 
-### 🚀 Key Achievements
-- **BeOn Chat:** Reduced messaging latency from 3s to sub-500ms for 1000+ concurrent users.
-- **Munjz Connect:** Architected a high-scale Property Management SaaS platform from scratch.
-- **Workflow Engines:** Built visual node-based automation engines for complex rule-based flows.
+### 🚀 Featured Projects (from my Portfolio)
+- **BeOn:** Real-time communication hub. Reduced latency to <500ms using WebSockets.
+- **Munjz Connect:** High-scale Property Management SaaS platform built from scratch.
+- **Aqarpedia:** Comprehensive real estate encyclopedia for the MENA region.
 
-### 📫 Connect with me
-- **Portfolio:** [sabry-dev.netlify.app](https://sabry-dev.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/sabry-hamed-010369207](https://www.linkedin.com/in/sabry-hamed-010369207)
-- **Email:** sabrry0@gmail.com
+---
+
+### 🛠️ My Tech Stack
+| Category | Technologies |
+| :--- | :--- |
+| **Frameworks** | Vue.js (Nuxt), React (Next.js), Angular 17+ |
+| **Languages** | TypeScript, JavaScript (ES6+), HTML5, CSS3/SASS |
+| **State/Data** | Pinia, Vuex, TanStack Query, RESTful APIs |
+| **Real-time** | WebSockets, Pusher, Laravel Echo |
+| **Architecture** | 4-Layer Architecture, Clean Code, Design Patterns |
+| **Tools** | Vite, Tailwind CSS, PrimeVue, Git, GSAP |
+
+---
+
+### 📈 Stats & Connect
+- 🌍 **Portfolio:** [sabry-dev.netlify.app](https://sabry-dev.netlify.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/sabry-hamed-010369207](https://www.linkedin.com/in/sabry-hamed-010369207)
+- ✉️ **Email:** sabrry0@gmail.com
+
+---
